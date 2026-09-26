@@ -11,7 +11,7 @@ We build AI tools that change how knowledge is integrated and transmitted, and w
 | Project | What it is |
 | --- | --- |
 | [**slidra**](https://github.com/Noopher-AI/slidra) | The open `.slidra` presentation format (SVG slides with explicit coordinates) and a browser viewer that plays them. [Live demo →](https://slidra-demo.vercel.app/) |
-| [**oat**](https://github.com/Noopher-AI/oat) | Open Agent Team. |
+| [**oat-agents**](https://github.com/Noopher-AI/oat-agents) | Open Agent Team. |
 
 ### Get in touch
 
